@@ -259,3 +259,8 @@ bin ich dran ? - is it my turn ?
 zusammen - together
 schläft - sleeps
 wieder - again
+das Fahrzeug - vehicle
+mein werkzeug - my tool
+das flugzeug - airplane
+dein spielzeug  - your toy
+feuerzeug - lighter
