@@ -1,0 +1,261 @@
+Ich bin - I am
+Sie - She / Them
+du - you (informal) 
+Es - It
+Er - he
+Ist - is
+trinkt - drinks
+du bist - you are (singular)
+das - the (N)
+der - the (M)
+die - the (F) / (plural, all gender)
+den - the (M) (Accusative)
+das ist - that is
+mann - man
+manner - men
+frau - woman
+frauen - women
+kind - child
+kinder - children
+Wir sind - we are
+Ihr seid - you are (plural)
+sie sind (lowercase) - they are (F) / (plural)
+Sie sind (uppercase) - you are (formal / plural)
+das sind sie - This is them
+bis bald - see you soon
+bis spater - see you later
+bis morgen - see you tomorrow
+entschuldigung - I am sorry
+gern geschehen - you are welcome
+es tut mir leid - I am sorry / It does me harm 
+in ordnung - alright
+genau - exactly
+leider - sadly
+bitte - please
+keine ahnung - no idea
+Mir geht's gud - I am doing fine
+alles klar - all right
+du trinkst - you drink / are drinking
+Ihr trinkt - you drink / are drinking (2nd person)
+wir trinken - we are drinking (1st person plural)
+die trinken - they are drinking (3rd person plural)
+sie trinken - they are drinking (3rd person plural)
+Ich trinke - I drink
+wir essen - we are eating
+Ihr esst - you are eating (plural)
+du isst - you are eating (2nd person singular esst => isst  )
+Er isst - He is eating (3rd person singular esst => isst )
+Ich heibe (heise) - My name is
+Er heibt (heist) - His name is
+Er liest - He is reading
+buch - book
+bucher - books
+Ich lese - I am reading
+Wir lesen - we are reading
+kommen aus - come from
+Sie kommen - They are coming
+Sie kommt - She is coming
+Er hat - He has
+Ich habe - I have
+Ihr habt - you have (plural)
+du hast - you have
+wir haben - we have
+ich verstehe Deutsch - I understand german
+Er versteht - He understands (singular)
+sie verstehen - they understand (plural)
+ich spreche Englisch - I speak english
+die frau spricht - The woman speaks / is speaking
+sprichst du deutsch - Do you speak German?
+ihr sprecht - you speak (plural informal)
+die zeitung / zeitungen - newspaper
+schmeckt - tastes
+Er hat hunger - He is hungry
+Er hat Durst - He is thirsty
+du hast hunger - you are hungry
+du isst eis - you eat ice-cream
+die frau isst eis - the woman eats ice-cream
+das essen - food
+eis - ice cream
+das bier - beer
+der wein - wine
+der apfel / Äpfel- apple
+der saft - juice
+das obst - fruit
+die orange / orangen - orange
+die banane / bananen - banana
+tomato / tomaten - tomato
+die kartoffel - potato
+der kase - cheese
+das fleisch - meat
+das Ei / Eier - egg
+die fische - fishes
+Gemuse - vegetables
+die schokolade - chocolate
+der zucker - sugar
+die erdbeere / erdbeeren - strawberry
+erdbeeren sind lecker - strawberries are tasty
+frisch - fresh
+lecker - tasty
+das salz - salt
+der reis - rice
+das Öl - Oil
+der hund / hunde - dog
+die katze / katzen - cat
+die maus - mouse
+der bar / baren - bear
+das tier / tiere - animal
+das pferd / pferde - horse
+der vogel / Vögel - bird
+das haustier - pet (house-animal)
+die ente / enten - duck
+die kuh - cow
+das schwein - pig
+die spinne / spinnen - spider
+die fliege / fliegen - fly
+die biene - bee
+das insekt / insekten - insect 
+der kafer - beetle
+das ist normal - that is normal
+perfekt - perfect
+toll - great
+leicht - light
+leise - calm
+schlecht - bad
+frei - free
+stark - strong
+lang - long
+laut - loud
+schwach - weak
+kurz - short
+grob (spelt gross) - big
+klein - small
+klar - clear
+ruhig - calm
+menschen - people
+schön - handsome
+neu - new
+frage - question
+bitte schon - here you are
+schnell - fast
+weit - far
+wichtig - important
+teuer - expensive
+langsam - slow
+alt - old
+richtig - right / correct
+mude - tired
+kalt - cold
+schwer - heavy
+jung - young
+nicht - not
+gesund - healthy
+einfach - easy
+lustig - funny
+traurig - sad
+fertig - ready / exhausted
+Ich finde dich nett - I find you nice
+Halbschwester - half sister
+lauft - runs
+Ich gehe - I am going
+wollen - want
+Ich schlafe - I am sleeping
+Ich mache - I make  
+das kleid / kleider - dress
+der rock - skirt
+tragen - wear
+hut / hute - hat
+der schuh - shoe
+wir lernen - we learn / read
+ihr lernt - you learn
+sie lernt - she learns
+du liest - you learn
+er liest - he reads
+mag - like
+Ich sehe - I see
+Sie schreibt - She writes
+Ich lese - I learn
+Ich höre - I hear 
+Ich kenne - I know
+Er kennt - he knows
+Ich renne - I am running
+wir rennen - we run
+du schwimmst - you swim
+sie schwimmt - she swims
+wir farhen - we drive
+du denkst - you think
+sie denkt - she thinks
+die jacke - jacket
+der mantel - coat
+hosen - pants
+er trägt - he is wearing
+ich trage - I wear
+das hemd - shirt
+die kleidung - clothes
+Ich beginne - I am starting
+Ich bezahle - I am paying
+wir bezahlen - we pay
+er bezahlt - he pays
+Ich brauche - I need
+Er wascht - he washes
+der knopf - the button
+schmuck - jewelry
+flecken - spots
+passt - fits
+die tasche - bag
+Der Baum - tree
+Der berg / berge - mountain
+Die natur - nature
+Die erde - earth
+Das feuer - fire
+Der mond - moon
+Die luft - air
+Die blume / blumen - flower
+Das meer - sea
+Die sonne - sun
+Der himmel - sky
+Ich lebe - I am alive
+Der stern - star
+Reicht - is enough
+Mein - my
+Meine - my (feminine)
+Dein - your
+Die sind perfekt / Sie sind perfekt - they are perfect
+leise - queit
+Unsere - our (female / plural)
+Unser - our (male)
+euer - your
+ihr - her / their
+ihre - her / their
+viel - a lot
+jemand - someone
+niemand - nobody
+ein paar - a few
+ein Paar - a pair of
+ich brauche - I need
+etwas - some
+auch - too
+wirklich? - really ?
+gern / gerne - like
+ich esse gerne - I like to eat
+so stark! - so strong!
+rennst du gern - do you like running ?
+Diese - this
+ganz - entirely
+Man hat brot - one has bread
+alle kinder - all children
+nur - only
+immer - always
+noch einen - another one
+zu - too
+genug - enough
+wir leben noch - we are still alive
+Sie isst immer noch - she is still eating
+nichts - nothing
+nie - never
+niemals - never
+vielleicht - maybe
+alleine - alone
+bin ich dran ? - is it my turn ?
+zusammen - together
+schläft - sleeps
+wieder - again
