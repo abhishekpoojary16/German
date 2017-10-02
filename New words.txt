@@ -152,7 +152,7 @@ gesund - healthy
 einfach - easy
 lustig - funny
 traurig - sad
-fertig - ready / exhausted
+fertig - ready / exhausted (complete)
 Ich finde dich nett - I find you nice
 Halbschwester - half sister
 lauft - runs
@@ -264,3 +264,5 @@ mein werkzeug - my tool
 das flugzeug - airplane
 dein spielzeug  - your toy
 feuerzeug - lighter
+are you - bist du / seid ihr / sind Sie
+hoch - high
