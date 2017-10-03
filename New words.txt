@@ -284,3 +284,19 @@ die Brucke - bridge
 das zimmer - room
 das Dorf - village
 Wir bauen - we are building
+ich verstehe dich nicht - I don't understand you
+ich mag ihn nicht - I don't like him
+wir wollen es - we want it
+Ich mag euch - I like you
+kennst du uns - do you know us 
+er siehst sie - he sees them
+die wand - the wall
+die Tür - the door
+die Treppe - staircase
+öffnet - opens
+Siehst du den Zaun - do you see the fence ?
+Dieses haus - this house
+fenster - window
+Jedes Haus - Every house
+Die Decke - blanket
+schmutzig - dirty
