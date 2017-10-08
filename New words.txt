@@ -60,6 +60,8 @@ Ich habe - I have
 Ihr habt - you have (plural)
 du hast - you have
 wir haben - we have
+Sie hat - she has
+Sie haben - they have
 ich verstehe Deutsch - I understand german
 Er versteht - He understands (singular)
 sie verstehen - they understand (plural)
@@ -226,7 +228,7 @@ Unser - our (male)
 euer - your
 ihr - her / their
 ihre - her / their
-viel - a lot
+viel / viele - a lot
 jemand - someone
 niemand - nobody
 ein paar - a few
@@ -298,5 +300,25 @@ Siehst du den Zaun - do you see the fence ?
 Dieses haus - this house
 fenster - window
 Jedes Haus - Every house
+Jeder - Everyone
 Die Decke - blanket
 schmutzig - dirty
+der balkon - the balcony
+der Schlüssel - key
+die wohnung - apartment
+das dach - roof
+die Küche - kitchen
+der Keller - cellar / basement
+Dies sind - these are
+mein / meinen - my
+seinen - his
+euren schmuck - your jewelry
+anderes - another
+die lampe - lamp
+das licht - light
+die Steckdose - power outlet
+das Bett / betten - bed
+das wohnzimmer - living room
+das schlafzimmer - bedroom
+der teppich - carpet
+Ladegerat - charger
