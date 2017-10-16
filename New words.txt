@@ -15,6 +15,8 @@ mann - man
 manner - men
 frau - woman
 frauen - women
+Mädchen - girl
+junge / jungen - boy
 kind - child
 kinder - children
 Wir sind - we are
@@ -133,7 +135,7 @@ grob (spelt gross) - big
 klein - small
 klar - clear
 ruhig - calm
-menschen - people
+mensch / menschen - human / people
 schön - handsome
 neu - new
 frage - question
@@ -158,6 +160,7 @@ fertig - ready / exhausted (complete)
 Ich finde dich nett - I find you nice
 Halbschwester - half sister
 lauft - runs
+wir laufen - we run
 Ich gehe - I am going
 wollen - want
 Ich schlafe - I am sleeping
@@ -181,6 +184,8 @@ Ich kenne - I know
 Er kennt - he knows
 Ich renne - I am running
 wir rennen - we run
+du rennst - you run
+gehen wir - are we going ?
 du schwimmst - you swim
 sie schwimmt - she swims
 wir farhen - we drive
@@ -217,7 +222,7 @@ Die sonne - sun
 Der himmel - sky
 Ich lebe - I am alive
 Der stern - star
-Reicht - is enough
+Es Reicht - It is enough
 Mein - my
 Meine - my (feminine)
 Dein - your
@@ -336,3 +341,20 @@ Wenn du willst - if / when you want
 Weil - because
 dass - that
 Wenn er nicht kommt, gehen wir nicht - If he does not come, we do not go
+sind sie neu ? - are they new ? ("sie" is only used as the formal "you" when it is capitalized.)
+Der Herr / Herren - the gentleman / lord 
+Den Menschen geht es gut - the people are doing well
+Damen - Ladies
+Leute - people
+Der Erwachsene - adult
+Die Bürger - The citizens
+obwohl - even though
+solange - as long as
+Da - since
+sobald - as soon as
+das publikum - audience
+der gast - guest
+vegetarier - vegetarian
+gegner - opponent
+das geschlecht - gender
+die gruppe - group
